@@ -1,0 +1,330 @@
+[
+  {
+    "title": "Ratusz",
+    "manageTitle": "cityhall",
+    "lat": 51.109819,
+    "lng": 17.032098,
+    "imgSrc": "img/mapka/ratusz.jpg",
+    "shortDesciption": "Poznaj historię jego zegarów i dzwonów."
+  },
+  {
+    "title": "Dom Technika",
+    "manageTitle": "nothouse",
+    "lat": 51.100960,
+    "lng": 17.032122,
+    "imgSrc": "img/mapka/dom-technika.jpg",
+    "shortDesciption": "W portalu widzimy twarze dwóch architektów obiektu. Kim byli?"
+  },
+  {
+    "title": "Pergola",
+    "manageTitle": "pergola",
+    "lat": 51.109234,
+    "lng": 17.078116,
+    "imgSrc": "img/mapka/pergola.jpg",
+    "shortDesciption": "Na placu w otoczeniu kolorowych kwiatów z pobliskich kwiaciarni znajduje się fontanna ze smokiem. Z tego placu zaczynamy zwiedzanie."
+  },
+  {
+    "title": "Plac Solny",
+    "manageTitle": "saltmarket",
+    "lat": 51.109669,
+    "lng": 17.030003,
+    "imgSrc": "img/mapka/plac-solny.jpg",
+    "shortDesciption": "Na placu w otoczeniu kolorowych kwiatów z pobliskich kwiaciarni znajduje się fontanna ze smokiem. Z tego placu zaczynamy zwiedzanie."
+  },
+  {
+    "title": "Odra",
+    "manageTitle": "odra",
+    "lat": 51.106012,
+    "lng": 17.059545,
+    "imgSrc": "img/mapka/odra.jpg",
+    "shortDesciption": "Największa z pięciu rzek przepływających przez Wrocław. Stanowi wspaniałe miejsce do uprawiania sportów i rekreacji"
+  },
+  {
+    "title": "Uniwersytet Wrocławski",
+    "manageTitle": "university",
+    "lat": 51.113873,
+    "lng": 17.033653,
+    "imgSrc": "img/mapka/uniwersytet-wroclawski-fontanna-szermierz-wieza-matematyczna.jpg",
+    "shortDesciption": "Zobacz piękny barokowy gmach ozdobiony rzeźbami, dowiedź się dlaczego szermierz nie ma ubrania?"
+  },
+  {
+    "title": "Kościół Uniwersytecki",
+    "manageTitle": "universityeschurch",
+    "lat": 51.113937,
+    "lng": 17.035261,
+    "imgSrc": "img/mapka/kosciol-uniwersytecki-barokowy-wroclaw.jpg",
+    "shortDesciption": "Zatrzymamy się na  zwiedzanie tej świątyni. Jest to najładniejszy, barokowy kościół Wrocławia."
+  },
+  {
+    "title": "Ossolineum",
+    "manageTitle": "ossolineum",
+    "lat": 51.114029,
+    "lng": 17.036926,
+    "imgSrc": "img/mapka/ossolineum.jpg",
+    "shortDesciption": "Barokowy budynek nad Odrą. W środku znajdują się ważne dzieła polskich twórców."
+  },
+  {
+    "title": "Most Tumski",
+    "manageTitle": "tumskibridge",
+    "lat": 51.114726,
+    "lng": 17.042279,
+    "imgSrc": "img/mapka/most-tumski.jpg",
+    "shortDesciption": "Nazywany też mostem zakochanych. Tutaj pary wieszają kłódki i wyznają sobie miłość."
+  },
+  {
+    "title": "Kościół św Krzyża i Bartłomieja",
+    "manageTitle": "stcrosschurch",
+    "lat": 51.114935,
+    "lng": 17.044157,
+    "imgSrc": "img/mapka/pomnik-swietego-jana-nepomucena-kosciol-sw-krzyza-i-sw-bartlomieja.jpg",
+    "shortDesciption": "Jak to się stało, że wybudowano dwa kościoły w jednym budynku? Barokowy pomnik przed kościołem przedstawia sceny z życia świętego Jana Nepomucena. Warto przyjrzeć się aniołkom.  Dlaczego jeden z nich jest łysy?"
+  },
+  {
+    "title": "Pałac Biskupi",
+    "manageTitle": "bishoppalace",
+    "lat": 51.114051,
+    "lng": 17.044565,
+    "imgSrc": "img/mapka/palac-biskupi-ostrow-tumski-brama.jpg",
+    "shortDesciption": "Za ozdobną bramą mieści się siedziba metropolity Wrocławskiego."
+  },
+  {
+    "title": "Katedra św. Jana Chrzciciela",
+    "manageTitle": "kathedral",
+    "lat": 51.114158,
+    "lng": 17.045816,
+    "imgSrc": "img/mapka/katedra.jpg",
+    "shortDesciption": "Podczas wycieczki zatrzymamy się na jej zwiedzanie. Pokażemy pocisk z czasów drugiej wojny światowej, który  utkwił w fasadzie budynku, zobaczymy też zdjęcia zrobione przed odbudową."
+  },
+  {
+    "title": "Kościół św. Idziego",
+    "manageTitle": "stgileschurch",
+    "lat": 51.114609,
+    "lng": 17.046931,
+    "imgSrc": "img/mapka/kosciol-swietego-idziego-brama-kluskowa-zabytki-na-ostrowie-tumskim-wroclaw.jpg",
+    "shortDesciption": "Najstarszy z kościołów Wrocławia. Posłuchaj legendy o bramie kluskowej."
+  },
+  {
+    "title": "Plac Grunwaldzki",
+    "manageTitle": "grunwadzkisquare",
+    "lat": 51.111522,
+    "lng": 17.060309,
+    "imgSrc": "img/mapka/plac-grunwaldzki.jpg",
+    "shortDesciption": "Pod koniec II wojny światowej zburzono tam dwa kościoły na ich miejscu wybudowano lotnisko wojskowe. Dlaczego tak się stało?"
+  },
+  {
+    "title": "Uniwersytet Medyczny",
+    "manageTitle": "medicaluniversity",
+    "lat": 51.110169,
+    "lng": 17.064799,
+    "imgSrc": "img/mapka/uniwersytet-medyczny-studenci-we-wroclawiu-kliniki.jpg",
+    "shortDesciption": "Związanych z nim było wielu światowej sławy lekarzy."
+  },
+  {
+    "title": "Most Zwierzyniecki",
+    "manageTitle": "zwierzynieckibridge",
+    "lat": 51.108242,
+    "lng": 17.069692,
+    "imgSrc": "img/mapka/most-zwierzyniecki.jpg",
+    "shortDesciption": "Zabytkowy most z wieloma oryginalnymi elementami. Przejeżdżając przez niego znajdziemy się na wielkiej wyspie."
+  },
+  {
+    "title": "Zoo Wrocławskie",
+    "manageTitle": "zoo",
+    "lat": 51.105519,
+    "lng": 17.076145,
+    "imgSrc": "img/mapka/zoo.jpg",
+    "shortDesciption": "Na zwiedzanie wszystkich zakamarków tego obiektu trzeba poświęcić kilka godzin i sporo energii. Możemy rozpocząć naszą wycieczkę meleksem spod bramy głównej lub zakończyć objazd miasta przy jego kasach."
+  },
+  {
+    "title": "Hala Stulecia",
+    "manageTitle": "centennialhall",
+    "lat": 51.106828,
+    "lng": 17.077159,
+    "imgSrc": "img/mapka/hala-stulecia.jpg",
+    "shortDesciption": "Ze względu na swoje rozmiary i unikalną konstrukcję została wpisana na światową listę zabytków UNESCO. Odbywają się w niej targi, mecze, koncerty."
+  },
+  {
+    "title": "Fontanna Multimedialna",
+    "manageTitle": "multimediafountain",
+    "lat": 51.108741,
+    "lng": 17.078811,
+    "imgSrc": "img/mapka/fontanna.jpg",
+    "shortDesciption": "Znajduje się w kompleksie Hali Stulecia. O każdej pełnej godzinie możemy obejrzeć tu krótki pokaz."
+  },
+  {
+    "title": "Ogród japoński",
+    "manageTitle": "japaneesegarden",
+    "lat": 51.109926,
+    "lng": 17.079391,
+    "imgSrc": "img/mapka/ogrod-japonski.jpg",
+    "shortDesciption": "Niewielkich rozmiarów ogród japoński możemy obejść w kilkanaście minut. Urocze miejsce, w którym odnajdziemy ciszę i spokój."
+  },
+  {
+    "title": "Stalowa Iglica",
+    "manageTitle": "iglica",
+    "lat": 51.107492,
+    "lng": 17.075413,
+    "imgSrc": "img/mapka/iglica.jpg",
+    "shortDesciption": "Wysoka na około 100 metrów stalowa konstrukcja. Poznaj historię sensacyjnej wspinaczki na jej szczyt."
+  },
+  {
+    "title": "Wybrzeże Wyspiańskiego",
+    "manageTitle": "wyspianskiegobank",
+    "lat": 51.107275,
+    "lng": 17.058579,
+    "imgSrc": "img/mapka/politechnika-wroclawska.jpg",
+    "shortDesciption": "Jadąc wzdłuż wybrzeża zobaczymy budynki Politechniki Wrocławskiej oraz kolejkę gondolową."
+  },
+  {
+    "title": "Most Grunwaldzki",
+    "manageTitle": "grunwaldzkibridge",
+    "lat": 51.109482,
+    "lng": 17.052504,
+    "imgSrc": "img/mapka/most-grunwaldzki-niebieki-most-wroclaw-wiszacy-most-nitowany-most.jpg",
+    "shortDesciption": "Wiszący, nitowany most o długości 120 metrów. Wiąże się z nim kilka zagadkowych opowieści."
+  },
+  {
+    "title": "Urząd Wojewódzki",
+    "manageTitle": "urzadwoewodzki",
+    "lat": 51.110366,
+    "lng": 17.049122,
+    "imgSrc": "img/mapka/urzad-wojewodzki.jpg",
+    "shortDesciption": "Jedyny budynek wybudowany w czasie II wojny światowej we Wrocławiu."
+  },
+  {
+    "title": "Muzeum Narodowe",
+    "manageTitle": "nationalmuseum",
+    "lat": 51.110802,
+    "lng": 17.047354,
+    "imgSrc": "img/mapka/muzeum-narodowe.jpg",
+    "shortDesciption": "Dzięki temu, że budynek porośnięty jest bluszczem o każdej porze roku  przyciąga wzrok i jest chętnie fotografowany."
+  },
+  {
+    "title": "Panorama Racławicka",
+    "manageTitle": "panoramaraclawicka",
+    "lat": 51.110142,
+    "lng": 17.044479,
+    "imgSrc": "img/mapka/panorama-raclawicka-sky-tower-parking-panorama-raclawicka-widok-z-punktu-widokowego.jpg",
+    "shortDesciption": "Z tego miejsca możemy rozpocząć wycieczkę lub tutaj ją zakończyć. W  rotundzie znajduje się panoramiczny obraz, który ogląda się ze specjalnej platformy. Zwiedzanie zajmuje 30 minut."
+  },
+  {
+    "title": "Muzeum Architektury",
+    "manageTitle": "architekturemuseum",
+    "lat": 51.109746,
+    "lng": 17.042398,
+    "imgSrc": "img/mapka/muzeum-architektury-dzwi-do-muzeum-wroclaw.jpg",
+    "shortDesciption": "Mieści się w dawnym klasztorze do którego prowadzą piękne odrestaurowane drzwi."
+  },
+  {
+    "title": "Muzeum Poczty i Telekomunikacji",
+    "manageTitle": "museumpostalservice",
+    "lat": 51.108552,
+    "lng": 17.044576,
+    "imgSrc": "img/mapka/poczta-glowna.jpg",
+    "shortDesciption": "Był to pierwszy wieżowiec we Wrocławiu, obecnie przylega do niego nowoczesny hotel Hilton."
+  },
+  {
+    "title": "Dworzec Główny",
+    "manageTitle": "railwaystation",
+    "lat": 51.0988693,
+    "lng": 17.0343453,
+    "imgSrc": "img/mapka/dworzec-glowny.jpg",
+    "shortDesciption": "Jeden z najładniejszych budynków we Wrocławiu z którym związanych jest wiele ciekawych historii. Często tutaj zaczynamy zwiedzanie z turystami, którzy dopiero przybyli do miasta."
+  },
+  {
+    "title": "Instalacja Przejście",
+    "manageTitle": "installationswidnicka",
+    "lat": 51.101448,
+    "lng": 17.029527,
+    "imgSrc": "img/mapka/instalacja-przejscie.jpg",
+    "shortDesciption": "Należy do najbardziej kreatywnych pomników na świecie."
+  },
+  {
+    "title": "Renoma",
+    "manageTitle": "renoma",
+    "lat": 51.103904,
+    "lng": 17.030885,
+    "imgSrc": "img/mapka/renoma.jpg",
+    "shortDesciption": "Wizytówka wrocławskiej architektury. Do odnowienia elewacji użyto 4 kilogramy 24 karatowego złota."
+  },
+  {
+    "title": "Kościół św. Elżbiety",
+    "manageTitle": "stelisabeth",
+    "lat": 51.111671,
+    "lng": 17.030435,
+    "imgSrc": "img/mapka/kosciol-sw-elzbiety.jpg",
+    "shortDesciption": "Odkryj legendę o jego wieży, zachwyć się witrażami."
+  },
+  {
+    "title": "Jatki",
+    "manageTitle": "jatki",
+    "lat": 51.112189,
+    "lng": 17.031100,
+    "imgSrc": "img/mapka/jatki.jpg",
+    "shortDesciption": "Zobacz pomnik zwierząt znajdujący się na najstarszej uliczce miasta."
+  },
+  {
+    "title": "Opera",
+    "manageTitle": "opera",
+    "lat": 51.105647,
+    "lng": 17.030722,
+    "imgSrc": "img/mapka/opera.jpg",
+    "shortDesciption": "Opera wrocławska to miejsce wielu imponujących widowisk artystycznych."
+  },
+  {
+    "title": "Narodowe Forum Muzyki",
+    "manageTitle": "nationalmusicforum",
+    "lat": 51.107304,
+    "lng": 17.026054,
+    "imgSrc": "img/mapka/narodowe-forum-muzyki.jpg",
+    "shortDesciption": "Nowoczesna sala koncertowa przed którą zobaczymy malutką orkiestrę krasnoludków."
+  },
+  {
+    "title": "Dzielnica czterech wyznań",
+    "manageTitle": "4confessions",
+    "lat": 51.108697,
+    "lng": 17.023943,
+    "imgSrc": "img/mapka/synagoga.jpg",
+    "shortDesciption": "Miejsce w którym spotykają się 4 kultury: protestancka, żydowska, katolicka i prawosławna."
+  },
+  {
+    "title": "Pałac królewski",
+    "manageTitle": "kingspalace",
+    "lat": 51.107601,
+    "lng": 17.028471,
+    "imgSrc": "img/mapka/palac-krolewski-muzeum-historyczne-wroclawia.jpg",
+    "shortDesciption": "Dawna rezydencja cesarzy niemieckich, obecnie mieści się tu muzeum historyczne."
+  },
+  {
+    "title": "Wydział filologiczny",
+    "manageTitle": "grekokatolickkathedral",
+    "lat": 51.112862,
+    "lng": 17.038339,
+    "imgSrc": "img/mapka/wydzial-filologiczny.jpg",
+    "shortDesciption": "Dawny budynek klasztorny w którym dziś mieści się wydział filologiczny. Przed nim uśmiechnięty krasnoludek z twarzą znanego wrocławskiego profesora."
+  },
+  {
+    "title": "Most Piaskowy",
+    "manageTitle": "sandbridge",
+    "lat": 51.113595,
+    "lng": 17.039844,
+    "imgSrc": "img/mapka/most-piaskowy.jpg",
+    "shortDesciption": "Z niego zobaczymy ładny widok na Odrę i Ostrów Tumski."
+  },
+  {
+    "title": "Wyspa Piaskowa",
+    "manageTitle": "sandbridge",
+    "lat": 51.114995,
+    "lng": 17.040822,
+    "imgSrc": "img/mapka/kosciol-sw-maryi-panny-na-piasku.jpg",
+    "shortDesciption": "Przejeżdżając przez tą niewielką wysepkę zobaczymy między innymi cerkiew i kościół katolicki Najświętszej Maryi Panny z imponującymi drzwiami."
+  },
+  {
+    "title": "Hala Targowa",
+    "manageTitle": "markethall",
+    "lat": 51.112708,
+    "lng": 17.040080,
+    "imgSrc": "img/mapka/hala-targowa-wroclaw-zabytki-wroclawia-stoiska-na-hali-targowej.jpg",
+    "shortDesciption": "Stanowi piękny przykład rozwoju miasta. Pokażemy gdzie ukryte są w niej kule armatnie i opowiemy dlaczego się tam znalazły." 
+  }
+]
