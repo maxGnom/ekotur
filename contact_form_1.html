@@ -1,0 +1,142 @@
+<div class="tab-pane active show fade" id="book" role="tabpanel" aria-labelledby="book-pill">
+<div id="booked">
+  <span>
+    Wiadomość została wysłana. Proszę poczekać na potwierdzenie rezerwacji.<br> Skontaktujemy się z Państwem w ciągu 24 godzin.
+  </span>
+</div>
+  <form id="form-book" name="book" action="index.php" method="POST">
+    <div id="tour-choosing-block">
+      <div class="tour-choosing-block-half">
+        <div class="select-tour-container">
+          <label for="select-tour">Wybierz swoją wycieczkę</label>
+          <select name="type_of_tour" id="select-tour" class="form-input_ form-control">
+            <option value="1" data-price="[180, 35]">#1 Stare miasto, Ostrów Tumski 1h</option>
+            <option value="2" data-price="[250, 50]">#2 Stare miasto, Ostrów Tumski, Kompleks Hali Stulecia 1h 40min</option>
+            <option value="3" data-price="[400, 80]">#3 Stare miasto, Ostrów Tumski, Kompleks Hali Stulecia, Dworzec, Opera, Dzielnica czterech świątyń 3h</option>
+            <option value="4" data-price="[250, 50]">#4 Zabytkowy Wrocław Nocą, Mosty i 9 Fontann 2h</option>
+          </select>
+        </div>
+      </div>
+      <div class="tour-choosing-block-half small-blocks">
+        <div class="input-size-group-container">
+          <label>
+          Liczba osób w grupie:
+            <input id="group-size" type="number"
+            name="size"
+            data-validation="number" 
+            class="form-control form-input_" 
+            data-validation="required"
+            data-validation-error-msg="Proszę podać liczbę osób"
+            />
+          </label>
+        </div>
+        <div class="price-total-block-container">
+          <div class="price-total-block">
+              <label>
+              Cena:
+                <input id="price-input" type="button"
+                name="price"
+                class="form-control form-input_"
+                />
+            </label>
+          </div>
+        </div>
+        <div class="input-calendar-container">
+          <label>
+            Wybierz datę
+			      <div class="input-group date" data-provide="datepicker">
+    		      <input type="text"
+              name="date"
+              data-validation="required"
+              data-validation-error-msg="Proszę podać datę"
+              class="datepicker form-control form-input_" 
+              />
+    			    <span class="input-group-addon"><span class="icon-form icon-date"></span></span>
+			      </div>
+    	    </label>
+        </div>
+        <div class="time-choose-tour-container">
+      	  <label>
+      	  Czas startu:
+      	    <div class="input-group bootstrap-timepicker timepicker">
+		          <input id="timepicker" 
+              type="text"
+              name="time"
+              class="form-control form-input_" />
+		          <span class="input-group-addon"><span class="icon-form icon-time"></span></span>
+            </div>
+      	  </label>
+        </div>
+      </div>
+    </div>
+    <div class="client-info-block">
+      <div class="client-info-block-half">
+        <div class="name-info-block">
+          <label>
+          Imię i nazwisko:
+            <input 
+            type="text" 
+            name="name"
+            id="name"
+            class="form-control form-input_" 
+            data-validation="required"
+            data-validation-error-msg="Proszę podać imię i nazwisko"/>
+          </label>
+        </div>
+        <div class="name-info-block">
+          <label>
+          Telefon:
+            <input type="tel" 
+            name="phone"
+            class="form-control form-input_" 
+            data-validation="required"
+            data-validation-error-msg="Proszę podać numer telefonu"
+            />
+          </label>
+        </div>
+        <div class="label-personal">
+          Wpisz swoje miejsce startu, lub zostaw standardowe:
+            <input id="user-place" 
+            name="address"
+            class="form-control form-input_" 
+            placeholder="Plac Solny 1 - Rynek / Postój eko meleksów" 
+            type="text"/>
+        </div>
+      </div>
+      <div class="client-info-block-half">
+        <div class="contact-info-block">
+          <label>
+          Adres e-mail:
+            <input type="email" 
+            name="email"
+            data-validation="email" 
+            class="form-control form-input_" 
+            data-validation="required"
+            data-validation-error-msg="Proszę podać adres email"/>
+          </label>
+        </div>
+        <div class="contact-info-block">
+          <label>
+          Dodatkowe informacje:<!-- <span class="note">*</span>: -->
+            <textarea name="additional_info" class="form-control form-input_ textarea-book"></textarea>
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="contact-info-block">
+      <label class="checkbox-container">
+        <span id="rodo">
+          Wyrażam zgodę na przetwarzanie danych osobowych zgodnie z ustawą o ochronie danych osobowych w celu rezerwacji wycieczki. Podanie danych jest dobrowolne, ale niezbędne do przetwarzania zapytania. Zostałem poinformowany, że przysługuje mi prawo dostępu do swoich danych, możliwosci ich poprawiania, żądania zaprzestania ich przetwarzania.
+          <!-- <span class="note">*</span>: --></span>
+        <input type="checkbox"
+               data-validation="required"
+               data-validation-error-msg="Proszę zaznaczyc"/>
+        <span class="checkmark"></span>
+      </label>
+    </div>
+    <div class="submit-btn-container">
+  	  <input id="submit-book" class="btn btn-success" type="submit" value="Rezerwuj" />
+    </div>
+  </form>
+</div>
+

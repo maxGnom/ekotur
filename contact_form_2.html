@@ -1,0 +1,58 @@
+<div class="tab-pane" id="questions" role="tabpanel" aria-labelledby="questions-pill">
+<div id="asked">
+  <span>
+	Informacja wysłana! Dziękujemy!
+  </span>
+</div>
+  <form name="questions" action="questions.php" id="form__contacts-block" method="POST">
+	<div class="form-containers-block">
+	  <div class="form-part__contacts-block">
+	    <div class="input-container____form__contacts-block">
+		  <label>
+		    Imię i nazwisko <input name="questions_name" 
+		    type="text" 
+		    class="form-control form-input_"
+		    data-validation="required"
+            data-validation-error-msg="Proszę podać imię i nazwisko" />
+		  </label>
+		</div>
+		<div class="input-container____form__contacts-block">
+		  <label>
+		    E-mail <input name="questions_email" 
+		    type="email" 
+		    data-validation="required"
+            data-validation-error-msg="Proszę podać adres email"
+		    class="form-control form-input_"/>
+		  </label>
+		</div>
+	  </div>
+	  <div class="form-part__contacts-block">
+	    <div class="textarea-container____form__contacts-block">
+	      <label>
+		    Treść wiadomości <textarea id="textarea-questions" 
+		    name="message" 
+		    class="form-control form-input_"
+		    data-validation="required"
+            data-validation-error-msg="Proszę wpisać wiadomość" ></textarea>
+		  </label>
+		 </div>
+	  </div>
+	</div>
+	<div class="contact-info-block">
+      <label class="checkbox-container">
+        <span id="rodo">
+          Wyrażam zgodę na przetwarzanie danych osobowych zgodnie z ustawą o ochronie danych osobowych w celu rezerwacji wycieczki. Podanie danych jest dobrowolne, ale niezbędne do przetwarzania zapytania. Zostałem poinformowany, że przysługuje mi prawo dostępu do swoich danych, możliwosci ich poprawiania, żądania zaprzestania ich przetwarzania.
+          <!-- <span class="note">*</span>: --></span>
+        <input type="checkbox"
+               data-validation="required"
+               data-validation-error-msg="Proszę zaznaczyc"/>
+        <span class="checkmark"></span>
+      </label>
+    </div>
+	<div class="questions-submit-btn">
+	  <label>
+	    <input id="submit-book" class="btn btn-primary btn-contacts" name="submit__contacts-form" type="submit" value="Wyślij" />
+	  </label>
+	</div>
+  </form>
+</div>		      	
